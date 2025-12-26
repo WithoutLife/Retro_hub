@@ -1,0 +1,6 @@
+1: Run game, got current display's MDD file by Press Shift+L.
+2: Use Mdd Editor to open the file you got. you can find MDD Editor in Tools\MDD Editor folder.
+3: Get the color value you selected.
+4: Write a fbl script,I put 2 simples in ColorAdjust folder.You can write your own,and put them into the same place.
+
+Enjoy.

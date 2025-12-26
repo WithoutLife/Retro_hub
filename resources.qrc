@@ -1,0 +1,11 @@
+<RCC>
+ 	<qresource prefix="/">
+ 		<file>launcher_icon.ico</file>
+ 		<file>retro_hub_logo.png</file>
+ 		<file>style.css</file> 
+        
+        <file>icon_dendy.png</file>
+ 		<file>icon_sega.png</file>
+ 		<file>icon_sony.png</file>
+ 	</qresource>
+</RCC>

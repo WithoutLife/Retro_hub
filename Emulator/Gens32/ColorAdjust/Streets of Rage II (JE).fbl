@@ -1,0 +1,6 @@
+//Map color 63776 to RGB(192,3,3.)
+#MapColor 63776, 192,3, 3;
+#MapColor 65504, 250,251, 165;
+#MapColor 64941, 0,0, 0;
+#MapColor 64941, 247,194, 135;
+#End

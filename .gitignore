@@ -1,0 +1,24 @@
+# Сборка и временные файлы Python
+__pycache__/
+*.pyc
+build/
+dist/
+*.spec
+
+# Логи (твои launcher.log и retro_hub.log)
+*.log
+logs/
+
+# Эмуляторы и папки с играми (самое важное для безопасности!)
+# Мы исключаем их, чтобы не получить бан за авторские права
+Dendy/
+Sega/
+Sony/
+
+# Временные файлы системы и IDE
+.vscode/
+.idea/
+Thumbs.db
+Desktop.ini
+Gens32.cfg
+Hold.dat
