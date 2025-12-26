@@ -1,5 +1,7 @@
 # Сборка и временные файлы Python
+_internal/
 __pycache__/
+Резерв/
 *.pyc
 build/
 dist/
