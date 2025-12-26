@@ -15,17 +15,7 @@
         <li>И другие...</li>
       </ul>
     </div>
-    
-    <div style="background: #222; padding: 15px; border-radius: 8px; border-left: 4px solid #ff4500;">
-      <h3 style="color: #ff4500; margin-top: 0;">🛠️ Технологии</h3>
-      <ul style="list-style-type: square; padding-left: 20px;">
-        <li>Python + PyQt (Интерфейс)</li>
-        <li>Custom CSS Styling</li>
-        <li>Portable Structure</li>
-      </ul>
-    </div>
-  </div>
-
+ 
   <div style="margin-top: 20px; padding: 15px; background: #111; border: 1px dashed #444; border-radius: 8px;">
     <p style="margin: 0; font-size: 0.9em; color: #888;">
       <b>Примечание:</b> Образы игр и файлы BIOS не включены в репозиторий в целях соблюдения авторских прав. Используйте собственные дампы картриджей.
